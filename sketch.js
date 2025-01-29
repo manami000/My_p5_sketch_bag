@@ -11,7 +11,7 @@ function preload()
 
 
 function setup() {
-  createCanvas(2428, 1500);
+  createCanvas(2428/2, 1500/2);
   background(bag);
   alien1.resize(size1, size1);
 
