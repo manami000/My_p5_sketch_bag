@@ -1,4 +1,4 @@
-let size1 = 150;
+let size1 = 100;
 let size2 = 1214*0.75;
 let size3 = 750*0.75;
 let counter = 1;
