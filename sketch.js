@@ -1,6 +1,6 @@
 let size1 = 150;
-let size2 = 2428/2;
-let size3 = 1500/2;
+let size2 = 1214;
+let size3 = 750;
 let counter = 1;
 
 
@@ -13,7 +13,7 @@ function preload()
 
 
 function setup() {
-  createCanvas(2428/2, 1500/2);
+  createCanvas(1214, 750);
   background(bag);
   alien1.resize(size1, size1);
   bag.resize(size2, size3);
